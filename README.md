@@ -1,4 +1,4 @@
-<h1 align="center">Ola 👋, sou Wanderson Ricardo</h1>
+<h1 align="center">Olá 👋, sou Wanderson Ricardo</h1>
 <h3 align="center">:hammer_and_wrench: Desenvolvedor em construção...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanderson-rpf&label=Profile%20views&color=0e75b6&style=flat" alt="wanderson-rpf" /> </p>

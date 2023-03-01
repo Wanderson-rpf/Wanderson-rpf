@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanderson-rpf&label=Profile%20views&color=0e75b6&style=flat" alt="wanderson-rpf" /> </p>
 
-- :computer: Estudante de **JavaScript e Python**
+- :computer: Desenvolvedor Web full stack **JavaScript**
 
 - 📫 E-mail para contato **wandersonrpf@gmail.com**
 

@@ -7,9 +7,9 @@ Tenho interesse em atuar como desenvolvedor web (mais inclinado ao back-end :man
 
 ### Formação
 
-[Desenvolvimento Web Full Stack — Trybe](https://www.betrybe.com/), conclusão em Março de 2023.
+[Desenvolvimento Web Full Stack — Trybe](https://www.betrybe.com/), conclusão de 2023 (em andamento).
 
-[Programação em Python do básico ao avançado](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/), conclusão em Janeiro de 2022.
+[Programação em Python do básico ao avançado](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/), conclusão 2022.
 
 [Gestão de TI, Gerenciamento de informática e pessoas](https://www.uninter.com/graduacao-ead/?gclid=Cj0KCQjwlumhBhClARIsABO6p-zLKj96dS3B8LZ-2Z5sdYg7uAKMDT_lsc60CMVkE3XdEAdA0svqWicaAqp4EALw_wcB), conclusão em 2017. 
 

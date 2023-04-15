@@ -1,6 +1,6 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Flower&size=30&pause=1000&center=true&width=500&lines=%f0%9f%92%bb+Desenvolvedor+Full+Stack)
 
-Tenho interesse em atuar como desenvolvedor web (mais inclinado ao back-end :man_technologist:), diante disso decidi sair do meu antigo emprego para me especializar na área de programação, após alguns anos trabalhando com TI porem como suporte técnico e analista, resolvi iniciar essa nova empreitada no mundo da programação. Agora, estou animado e dedicado em ampliar meus conhecimentos em tecnologias como JavaScript, TypeScript, React, Node.js e Python, para criar soluções e inovações.
+Sou desenvolvedor full stack (mais inclinado ao back-end :man_technologist:), resolvi atuar como desenvolvedor para criar soluções e me reposicionar no mercado de trabalho, diante disso decidi sair do meu antigo emprego para me especializar na área de programação. Trabalhei alguns anos com TI porem como suporte técnico e analista, então, resolvi iniciar essa nova empreitada no mundo da programação. Agora, estou animado e motivado em aplicar meus conhecimentos em tecnologias como JavaScript, TypeScript, React, Node.js e Python, para criar soluções e inovações.
 
 
 ---

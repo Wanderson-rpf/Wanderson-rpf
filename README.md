@@ -7,14 +7,14 @@ Sou desenvolvedor full stack (mais inclinado ao back-end :man_technologist:), re
 
 ### Formação
 
-[Desenvolvimento Web Full Stack — Trybe](https://www.betrybe.com/), conclusão de 2023 (em andamento).
+[Desenvolvimento Web Full Stack — Trybe](https://www.betrybe.com/), conclusão em 2023 (em andamento).
 
-[Programação em Python do básico ao avançado](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/), conclusão 2022.
+[Programação em Python do básico ao avançado - Udemy](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/), conclusão em 2022.
 
-[Gestão de TI, Gerenciamento de informática e pessoas](https://www.uninter.com/graduacao-ead/?gclid=Cj0KCQjwlumhBhClARIsABO6p-zLKj96dS3B8LZ-2Z5sdYg7uAKMDT_lsc60CMVkE3XdEAdA0svqWicaAqp4EALw_wcB), conclusão em 2017. 
+[Gestão de TI, Gerenciamento de informática e pessoas - Uninter](https://www.uninter.com/graduacao-ead/?gclid=Cj0KCQjwlumhBhClARIsABO6p-zLKj96dS3B8LZ-2Z5sdYg7uAKMDT_lsc60CMVkE3XdEAdA0svqWicaAqp4EALw_wcB), conclusão em 2017. 
 
 
-[Curso Técnico de informática](https://www.linkedin.com/company/fundacao-educacional-montes-claros/?originalSubdomain=br), conclusão em 2011. 
+[Curso Técnico de informática - Femc](https://www.linkedin.com/company/fundacao-educacional-montes-claros/?originalSubdomain=br), conclusão em 2011. 
 
 ---
 
